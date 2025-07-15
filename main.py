@@ -4,6 +4,8 @@
 def main() -> None:
     print("hello world")
     print("hello world")
+    print("hello world2")
+    print("hello world2")
     print("hello world")
     print("goodbye world")
     print("goodbye world 2")
